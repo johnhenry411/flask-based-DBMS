@@ -1,0 +1,65 @@
+2024-04-18 18:23:11,752 - DEBUG - Login form submitted with email: godly@gmail.com
+2024-04-18 18:23:11,761 - INFO - User godly logged in successfully
+2024-04-18 18:23:11,783 - DEBUG - Main route accessed
+2024-04-18 18:23:11,783 - DEBUG - Rendering main page for user godly
+2024-04-18 18:26:10,932 - DEBUG - Main route accessed
+2024-04-18 18:26:10,932 - DEBUG - Rendering main page for user godly
+2024-04-18 18:31:23,539 - DEBUG - Main route accessed
+2024-04-18 18:31:23,539 - DEBUG - Rendering main page for user godly
+2024-04-19 08:06:59,738 - DEBUG - Signup route accessed
+2024-04-19 08:06:59,742 - DEBUG - Signup form submitted with email: henry
+2024-04-19 08:06:59,788 - INFO - New user mike signed up successfully
+2024-04-19 08:07:20,616 - DEBUG - Login form submitted with email: henry
+2024-04-19 08:07:20,619 - INFO - User mike logged in successfully
+2024-04-19 08:07:20,635 - DEBUG - Main route accessed
+2024-04-19 08:07:20,636 - DEBUG - Rendering main page for user mike
+2024-04-19 08:15:16,070 - DEBUG - Signup route accessed
+2024-04-19 08:15:16,072 - DEBUG - Signup form submitted with email: henry@gmail.com
+2024-04-19 08:15:16,073 - WARNING - Email already exists
+2024-04-19 08:16:55,758 - DEBUG - Signup route accessed
+2024-04-19 08:16:55,759 - DEBUG - Signup form submitted with email: henry@gmail.com
+2024-04-19 08:16:55,761 - WARNING - Email already exists
+2024-04-19 08:17:28,960 - DEBUG - Login form submitted with email: godly@gmail.com
+2024-04-19 08:17:28,963 - WARNING - Invalid email or password entered
+2024-04-19 08:17:36,783 - DEBUG - Login form submitted with email: godly@gmail.com
+2024-04-19 08:17:36,784 - INFO - User godly logged in successfully
+2024-04-19 08:17:36,802 - DEBUG - Main route accessed
+2024-04-19 08:17:36,802 - DEBUG - Rendering main page for user godly
+2024-04-19 08:35:39,651 - DEBUG - Login form submitted with email: gerald@gmail.com
+2024-04-19 08:35:39,653 - INFO - User gerald logged in successfully
+2024-04-19 08:35:39,671 - DEBUG - Main route accessed
+2024-04-19 08:35:39,671 - DEBUG - Rendering main page for user gerald
+2024-04-19 14:17:53,144 - DEBUG - Login form submitted with email: godly@gmail.com
+2024-04-19 14:17:53,149 - INFO - User godly logged in successfully
+2024-04-19 14:17:53,176 - DEBUG - Main route accessed
+2024-04-19 14:17:53,176 - DEBUG - Rendering main page for user godly
+2024-04-19 14:20:57,284 - DEBUG - Main route accessed
+2024-04-19 14:20:57,284 - DEBUG - Rendering main page for user godly
+2024-04-19 14:21:19,859 - DEBUG - Main route accessed
+2024-04-19 14:21:19,860 - DEBUG - Rendering main page for user godly
+2024-04-19 14:23:38,960 - DEBUG - Main route accessed
+2024-04-19 14:23:38,960 - DEBUG - Rendering main page for user godly
+2024-04-19 14:23:55,971 - DEBUG - Main route accessed
+2024-04-19 14:23:55,971 - DEBUG - Rendering main page for user godly
+2024-04-19 14:35:47,389 - DEBUG - Main route accessed
+2024-04-19 14:35:47,390 - DEBUG - Rendering main page for user godly
+2024-04-19 14:36:41,596 - DEBUG - Main route accessed
+2024-04-19 14:36:41,596 - DEBUG - Rendering main page for user godly
+2024-04-19 14:37:26,674 - DEBUG - Main route accessed
+2024-04-19 14:37:26,674 - DEBUG - Rendering main page for user godly
+2024-04-19 15:52:43,419 - DEBUG - Signup route accessed
+2024-04-19 15:52:43,423 - DEBUG - Signup form submitted with email: admin@gmail.com
+2024-04-19 15:52:43,450 - INFO - New user Terry signed up successfully
+2024-04-19 15:56:35,773 - DEBUG - Login form submitted with email: admin@gmail.com
+2024-04-19 15:56:35,775 - INFO - User Terry logged in successfully
+2024-04-19 15:56:35,815 - DEBUG - Main route accessed
+2024-04-19 15:56:35,816 - DEBUG - Rendering main page for user Terry
+2024-04-19 16:15:10,499 - DEBUG - Main route accessed
+2024-04-19 16:15:10,500 - DEBUG - Rendering main page for user Terry
+2024-04-22 14:41:49,991 - DEBUG - Signup route accessed
+2024-04-22 14:41:50,054 - DEBUG - Signup form submitted with email: john@gmail.com
+2024-04-22 14:41:50,354 - INFO - New user michael signed up successfully
+2024-04-22 14:42:06,633 - DEBUG - Login form submitted with email: john@gmail.com
+2024-04-22 14:42:06,636 - INFO - User michael logged in successfully
+2024-04-22 14:42:06,675 - DEBUG - Main route accessed
+2024-04-22 14:42:06,675 - DEBUG - Rendering main page for user michael
